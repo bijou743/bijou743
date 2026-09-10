@@ -19,7 +19,7 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Belgrade, Serbia.
 
 - 🏗️ I build products end-to-end — from architecture to release, as the sole frontend developer in product teams.
-- ⚡ 3+ years of focused frontend work on Vue 3 / Nuxt 3, with a software development background since 2010.
+- ⚡ 4+ years of focused frontend work on Vue 3 / Nuxt 3, with a software development background since 2010.
 - 🤖 I integrate AI into products — working with Claude API and OpenAI API to power real features.
 - 🌍 Open to remote work and relocation.
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-sorokina-25489b310/) or **@bijou743** on Telegram
